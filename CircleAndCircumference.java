@@ -1,3 +1,5 @@
+//1. Accept radius of a circle and print the area and circumference of circle. (Hint: area = πr2, circumference = 2πr)
+
 import java.util.Scanner;
 public class CircleAndCircumference{
    public static void main(String[] args){
